@@ -120,3 +120,34 @@ h2{
     color: #f7be66;
 }
 */
+
+.opgave{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.opgave:hover{
+    color: #F7BE66;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: solid;
+    border-color: #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 90px;
+}
+.naste{
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.naste:hover{
+    color: #F7BE66;
+}
