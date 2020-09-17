@@ -159,16 +159,26 @@ h3{
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin: 10px;
+    margin-top: 40px;
 }
 .kodefelt{
 
     height: 50px;
     width: 50px;
-padding-top: 15px;
-border: solid;
-color: #FFFFFF;
-text-align: center;
-font-size: 30px;
-
-
+    padding-top: 15px;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.tilopgave{
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 30px;
+}
+.tilopgave:hover{
+    color: #F7BE66;
 }
