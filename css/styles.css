@@ -127,8 +127,7 @@ h2{
     text-decoration: none;  
 }
 h3{
-    size: 500px;
-
+ font-size: 30px;
 }
 .opgave:hover{
     color: #F7BE66;
@@ -154,4 +153,22 @@ h3{
 }
 .naste:hover{
     color: #F7BE66;
+}
+.kodewrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.kodefelt{
+
+    height: 50px;
+    width: 50px;
+padding-top: 15px;
+border: solid;
+color: #FFFFFF;
+text-align: center;
+font-size: 30px;
+
+
 }
