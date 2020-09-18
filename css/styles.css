@@ -85,7 +85,7 @@ h2{
     height: 15%;
     position: relative;
     top: 8px;
-    left: 350px;
+    left: 400px;
 }
 .head{
     display: flex;
@@ -123,27 +123,58 @@ h2{
 }
 */
 
-.opgave{
+.opgavegul{
     color: #FFFFFF;
     font-family: sans-serif;
     text-decoration: none;  
 }
-h3{
- font-size: 30px;
+.opgave{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    text-decoration: none;
 }
-.opgave:hover{
+h3{
+    font-size: 40px;
+    font-weight: lighter;
+}
+.opgavegul:hover{
     color: #F7BE66;
 }
-.box{
-    height: 100px;
-    width: 100px;
+.cirkelgul{
+    height: 130px;
+    width: 130px;
     border: solid;
     border-color: #ffffff;
     border-radius: 50%;
     text-align: center;
     display: inline-block;
     margin: 10px;
-    margin-left: 90px;
+    margin-left: 70px;   
+}
+.cirkelgul:hover{
+    border-color: #F7BE66;
+}
+.cirkelgullost{
+    height: 130px;
+    width: 130px;
+    border: solid;
+    border-color: #F7BE66;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 70px;
+}
+.cirkel{
+    height: 130px;
+    width: 130px;
+    border: solid;
+    border-color: #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 70px;
 }
 .naste{
     font-family: sans-serif;
