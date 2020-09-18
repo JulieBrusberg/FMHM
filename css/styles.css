@@ -181,3 +181,52 @@ h3{
 .tilopgave:hover{
     color: #F7BE66;
 }
+#puzzel {
+	width:100%;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+}
+#cross{
+	text-align: center;
+	width:30px;
+	height:30px;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	border: 1px solid white;
+}
+#buttons{
+	width:30%;
+	float: right;
+}
+tr{
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+}
+#leftBox{
+	float: left;
+    width: 50%;
+    height: 50%;
+}
+#rightBox{
+	float: left;
+}
+table{
+	padding:20px;
+}
+#cross1{
+    background-color: #2f2924;
+}
+.nastegodkendtop{
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 600px;
+    font-weight: bold;
+    font-size: 20px; 
+}
+.nastegodkendtop:hover{
+    color: #F7BE66;
+}
