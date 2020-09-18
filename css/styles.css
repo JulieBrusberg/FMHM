@@ -295,16 +295,31 @@ li{
     flex-direction: column;
     justify-content: space-evenly;
     margin:auto;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 .svarfelt{
     height: 50px;
     width: 200px;
-    padding-top: 15px;
+    padding-top: 25px;
+    border: 1px;
     border: solid;
     color: #FFFFFF;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: sans-serif;
     margin: auto;
+    margin-top: 20px;
+}
+.line4{
+    border-bottom: 3px solid #ffffff;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 70px;
+}
+.line5{
+    border-bottom: 9px solid #F7BE66;
+    max-width: 200px;
+    margin: auto;
+    margin-top: -6px;
+    margin-left: 90px;
 }
