@@ -311,7 +311,7 @@ li{
     margin-top: 20px;
 }
 .line4{
-    border-bottom: 3px solid #ffffff;
+    border-bottom: 9px solid #ffffff;
     max-width: 300px;
     margin: auto;
     margin-top: 70px;
@@ -320,6 +320,9 @@ li{
     border-bottom: 9px solid #F7BE66;
     max-width: 200px;
     margin: auto;
-    margin-top: -6px;
+    margin-top: -9px;
     margin-left: 90px;
+}
+.svarfelt:hover{
+    color: #F7BE66;
 }
