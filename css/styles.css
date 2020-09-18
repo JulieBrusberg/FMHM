@@ -290,3 +290,21 @@ li{
     color: #ffffff;
     font-size: 15px;
 }
+.svarwrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin:auto;
+    margin-top: 40px;
+}
+.svarfelt{
+    height: 50px;
+    width: 200px;
+    padding-top: 15px;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: auto;
+}
