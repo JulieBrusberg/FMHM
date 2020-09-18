@@ -310,6 +310,9 @@ li{
     margin: auto;
     margin-top: 20px;
 }
+.svarfelt:hover{
+    color: #F7BE66;
+}
 .line4{
     border-bottom: 9px solid #ffffff;
     max-width: 300px;
@@ -323,6 +326,41 @@ li{
     margin-top: -9px;
     margin-left: 90px;
 }
-.svarfelt:hover{
+.svarfeltforkertsvar{
+    height: 50px;
+    width: 200px;
+    padding-top: 25px;
+    border: 1px;
+    border: solid;
+    color: #9B3A3A;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: 20px;
+}
+.svarfelthvid{
+    height: 50px;
+    width: 200px;
+    padding-top: 25px;
+    border: 1px;
+    border: solid;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: 20px;
+}
+.svarfeltkorrekt{
+    height: 50px;
+    width: 200px;
+    padding-top: 25px;
+    border: solid;
     color: #F7BE66;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: 20px;
 }
