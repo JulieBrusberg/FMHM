@@ -15,7 +15,7 @@ h1{
     font-family: sans-serif;
     color: #ffffff;
     text-align: center;
-    margin-top: -10px;
+    margin-top: 10px;
     margin-bottom: 25px;
 }
 h2{
@@ -268,4 +268,25 @@ li{
     font-family: sans-serif;
     margin-right: 80px;
     margin-top: -75px;
+}
+.opgavex{
+    width: 30%;
+    height: 20%;
+    position: relative;
+    top: 10px;
+    left: 290px; 
+    font-family: sans-serif;
+    color: #ffffff; 
+    font-size: 30px;
+}
+.spgx{
+    width: 20%;
+    height: 20%;
+    position: relative;
+    top: 52px;
+    left: 146px; 
+    font-family: sans-serif;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 15px;
 }
