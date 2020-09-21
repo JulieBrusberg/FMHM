@@ -1,5 +1,5 @@
-@media screen and (max-width: 400px){
-body {
+@media only screen and (min-device-width: 480px){
+body{
     background-color: #2f2924;
 }
 .logo{
