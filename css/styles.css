@@ -1,3 +1,4 @@
+@media screen and (max-width: 400px){
 body {
     background-color: #2f2924;
 }
@@ -394,4 +395,5 @@ li{
     font-family: sans-serif;
     margin: auto;
     margin-top: 20px;
+}
 }
