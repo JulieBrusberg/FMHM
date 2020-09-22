@@ -82,49 +82,10 @@ h2{
 .arrow:hover{
     border-color: #F7BE66;
 }
-.logolillehh{
-    width: 15%;
-    height: 15%;
-    position: relative;
-    top: 8px;
-    left: 250px;
-}
 .head{
     display: flex;
     flex-wrap: wrap;
 }
-.kryds {
-    width: 60px;
-    height: 60px;
-    position: relative;
-}
-.kryds:after {
-    content: '';
-    height: 60px;
-    border-left: 2px solid #ffffff;
-    position: absolute;
-    transform: rotate(45deg);
-    left: 28px;
-    margin-top: 10px;
-}
-.kryds:before {
-    content: '';
-    height: 60px;
-    border-left: 2px solid #FFFFFF;
-    position: absolute;
-    transform: rotate(-45deg);
-    left: 28px;
-    margin-top: 10px;
-}
-/* hover på kryds 
-.kryds:after:hover{
-   color: #f7be66; 
-}
-.kryds:before:hover{
-    color: #f7be66;
-}
-*/
-
 .opgavegul{
     color: #FFFFFF;
     font-family: sans-serif;
@@ -305,21 +266,21 @@ li{
     height: 20%;
     position: relative;
     top: 10px;
-    left: 290px; 
+    left: 270px; 
     font-family: sans-serif;
     color: #ffffff; 
-    font-size: 30px;
+    font-size: 20px;
 }
 .spgx{
     width: 20%;
     height: 20%;
     position: relative;
-    top: 52px;
-    left: 146px; 
+    top: 35px;
+    left: 164px; 
     font-family: sans-serif;
     font-style: italic;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 13px;
 }
 .svarwrapper{
     display: flex;
@@ -355,7 +316,7 @@ li{
     max-width: 200px;
     margin: auto;
     margin-top: -9px;
-    margin-left: 90px;
+    margin-left: 30px;
 }
 .svarfeltforkertsvar{
     height: 50px;
