@@ -202,6 +202,7 @@ h3{
     background-color: #2f2924;
 }
 .nastegodkendtop{
+    background-color: #2f2924;
     font-family: sans-serif;
     color: #ffffff;
     text-align: center;
@@ -209,6 +210,8 @@ h3{
     font-weight: bold;
     font-size: 20px; 
     margin-left: 10px;
+    border: none;
+    margin-left: 130px;
 }
 .nastegodkendtop:hover{
     color: #F7BE66;
@@ -287,7 +290,7 @@ li{
 }
 .svarfelt{
     height: 50px;
-    width: 200px;
+    width: 250px;
     padding-top: 25px;
     border: 1px;
     border: solid;
@@ -316,7 +319,7 @@ li{
 }
 .svarfeltforkertsvar{
     height: 50px;
-    width: 200px;
+    width: 250px;
     padding-top: 25px;
     border: 1px;
     border: solid;
@@ -329,7 +332,7 @@ li{
 }
 .svarfelthvid{
     height: 50px;
-    width: 200px;
+    width: 250px;
     padding-top: 25px;
     border: 1px;
     border: solid;
@@ -342,7 +345,7 @@ li{
 }
 .svarfeltkorrekt{
     height: 50px;
-    width: 200px;
+    width: 250px;
     padding-top: 25px;
     border: solid;
     color: #F7BE66;
