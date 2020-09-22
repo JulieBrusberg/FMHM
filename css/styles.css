@@ -8,7 +8,7 @@ body{
 .logolille{
     width: 15%;
     height: 15%;
-    margin-left: 305px;
+    margin-left: 300px;
 }
 h1{
     font-family: sans-serif;
@@ -17,6 +17,15 @@ h1{
     margin-top: 50px;
     margin-bottom: 25px;
     margin-left: 0px;
+}
+h5{
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+
+    font-size: 40px;
 }
 h2{
     font-family: sans-serif;
@@ -374,4 +383,30 @@ h4{
     margin-left: 130px;
     text-decoration: none;
     margin-top: 400px;
+}
+.nastegodkendtop45:hover{
+    color: #F7BE66;
+}
+.scan{
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 30px; 
+    margin-left: 140px;
+    text-decoration: none;
+    margin-top: 500px;  
+}
+.nastegodkendtopresultat{
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px; 
+    margin-left: 140px;
+    text-decoration: none;
+}
+.nastegodkendtopresultat:hover{
+    color: #F7BE66;
 }
