@@ -178,8 +178,9 @@ h3{
     font-family: sans-serif;
     color: #FFFFFF;
     text-align: center;
-    margin-top: 300px;
+    margin-left: 105px;
     font-size: 30px;
+    text-decoration: none;
 }
 .tilopgave:hover{
     color: #F7BE66;
