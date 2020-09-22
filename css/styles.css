@@ -2,10 +2,8 @@ body{
     background-color: #2f2924;
 }
 .logo{
-    width: 70%;
-    height: 70%;
-    margin-left: 80px;
-    margin-top: 150px;
+    width: 100%;
+    margin-top: 200px;
 }
 .logolille{
     width: 15%;
@@ -206,12 +204,13 @@ h3{
     font-family: sans-serif;
     color: #ffffff;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 100px;
     font-weight: bold;
     font-size: 20px; 
-    margin-left: 10px;
+    margin-left: 0px;
     border: none;
     margin-left: 130px;
+    text-decoration: none;
 }
 .nastegodkendtop:hover{
     color: #F7BE66;
@@ -300,6 +299,7 @@ li{
     font-family: sans-serif;
     margin: auto;
     margin-top: 20px;
+    text-decoration: none;
 }
 .svarfelt:hover{
     color: #F7BE66;
@@ -354,4 +354,24 @@ li{
     font-family: sans-serif;
     margin: auto;
     margin-top: 20px;
+}
+.logoopg45{
+    width: 100%;
+}
+h4{
+    font-size: 45px;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+}
+.nastegodkendtop45{
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px; 
+    margin-left: 130px;
+    text-decoration: none;
+    margin-top: 400px;
 }
