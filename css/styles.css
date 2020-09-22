@@ -15,30 +15,31 @@ h1{
     font-family: sans-serif;
     color: #ffffff;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 25px;
+    margin-left: 0px;
 }
 h2{
     font-family: sans-serif;
     color: #ffffff;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 10px;
     font-weight: lighter;
 }
 .avatar{ 
-    width: 400px ;
-    height: 400px ;
+    width: 250px ;
+    height: 250px ;
     margin-top: 40px;
     background-color: none;
     border: solid #ffffff;
-    margin: 0;
+    margin: auto;
     position: absolute;
     margin: 0;
-    top: 300px;
-    left: 50px;
+    top: 250px;
+    left: 55px;
 }
 .skrivnavn{
-    width: 300px ;
+    width: 250px ;
     height: 30px ;
     margin-top: 40px;
     background-color: none;
@@ -46,8 +47,8 @@ h2{
     margin: 0;
     position: absolute;
     margin-bottom: 100px;
-    top: 800px;
-    left: 100px;
+    top: 550px;
+    left: 55px;
 }
 .skrivnavntekst{
     text-align: center;
@@ -60,7 +61,7 @@ h2{
     font-family: sans-serif;
     color: #ffffff;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 280px;
     font-weight: bold;
     font-size: 20px;
 }
@@ -74,8 +75,8 @@ h2{
     padding: 3px;
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
-    margin-left: 465px;
-    margin-top: 250px;
+    margin-left: 320px;
+    margin-top: 150px;
 }
 .arrow:hover{
     border-color: #F7BE66;
@@ -85,14 +86,7 @@ h2{
     height: 15%;
     position: relative;
     top: 8px;
-    left: 400px;
-}
-.logolillehhopg1{ 
-    width: 15%;
-    height: 15%;
-    position: relative;
-    top: 8p;
-    left: 350px;
+    left: 250px;
 }
 .head{
     display: flex;
@@ -219,18 +213,17 @@ h3{
     color: #F7BE66;
 }
 #puzzel{
-	width:100%;
+	width: 90%;
 	margin: 0;
 	padding: 0;
 	border-collapse: collapse;
 }
 .cross{
 	text-align: center;
-	width:30px;
-	height:30px;
-	margin: 0;
+	width: 30px;
+	height: 30px;
+	margin: -1px;
 	padding: 0;
-	border-collapse: collapse;
     color: #ffffff;
     border-color: #ffffff;
     background-color: #2f2924;    
@@ -238,17 +231,14 @@ h3{
 tr{
 	margin: 0;
 	padding: 0;
-	border-collapse: collapse;
 }
 #box{
-	float: left;
+    float: left;
     width: 90%;
     height: 90%;
-    margin: 0 20px;
 }
 .cross1{
     background-color: #2f2924;
-	border-collapse: collapse;
 }
 .nastegodkendtop{
     font-family: sans-serif;
@@ -257,7 +247,7 @@ tr{
     margin-top: 30px;
     font-weight: bold;
     font-size: 20px; 
-    float: center;
+    margin-left: 50px;
 }
 .nastegodkendtop:hover{
     color: #F7BE66;
@@ -267,21 +257,21 @@ tr{
     max-width: 400px;
     text-align: center;
     margin-top: 650px;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 .line2{
     border-bottom: 1px solid #ffffff;
     max-width: 130px;
     margin-top: 90px;
     transform: rotate(90deg);
-    margin-left: 175px;
+    margin-left: 130px;
 }
 .line3{
     border-bottom: 1px solid #ffffff;
     max-width: 400px;
     text-align: center;
     margin-top: 90px;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 li{
     margin-top: 10px;
@@ -293,7 +283,7 @@ li{
     list-style: none;
     color: #ffffff;
     font-family: sans-serif;
-    margin-left: 90px;
+    margin-left: 45px;
     margin-top: -75px;
     
 }
@@ -303,7 +293,7 @@ li{
     list-style: none;
     color: #ffffff;
     font-family: sans-serif;
-    margin-right: 80px;
+    margin-right: 15px;
     margin-top: -75px;
 }
 .opgavex{
