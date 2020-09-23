@@ -166,13 +166,15 @@ h3{
 }
 .kodefelt{
     height: 50px;
-    width: 50px;
-    padding-top: 15px;
+    width: 300px;
     border: solid;
-    color: #FFFFFF;
+    border-color: #F7BE66;
+    background-color: #ffffff;
+    color: #ffffff;
     text-align: center;
     font-size: 30px;
     font-family: sans-serif;
+    background-color: #2f2924;
 }
 .tilopgave{
     font-family: sans-serif;
@@ -320,13 +322,7 @@ li{
     margin: auto;
     margin-top: 70px;
 }
-.line5{
-    border-bottom: 9px solid #F7BE66;
-    max-width: 200px;
-    margin: auto;
-    margin-top: -9px;
-    margin-left: 30px;
-}
+
 .svarfeltforkertsvar{
     height: 50px;
     width: 250px;
@@ -413,4 +409,13 @@ h4{
 }
 .nastegodkendtopresultat:hover{
     color: #F7BE66;
+}
+#myProgress {
+        width: 10%;
+        background-color: #ddd;
+}
+#myBar {
+        width: 1%;
+        height: 30px;
+        background-color: #4CAF50;
 }
