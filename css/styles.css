@@ -47,23 +47,29 @@ h2{
     left: 55px;
 }
 .skrivnavn{
-    width: 250px ;
-    height: 30px ;
-    margin-top: 40px;
-    background-color: none;
-    border: solid #ffffff;
-    margin: 0;
     position: absolute;
     margin-bottom: 100px;
-    top: 550px;
-    left: 55px;
+    text-align: center;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 23px;
+    margin-top: 155px;
+    margin-left: 55px;
 }
 .skrivnavntekst{
     text-align: center;
     color: #ffffff;
     font-family: sans-serif;
     font-weight: lighter;
-    margin-top: 5px;
+    font-size: 20px;
+    margin-top: 210px;
+    background-color: #2f2924;
+    text-decoration: none;
+    border: solid #ffffff;
+    width: 250px;
+    height: 50px;
+    margin-left: 45px;
 }
 .nastegodkendt{
     font-family: sans-serif;
@@ -84,7 +90,7 @@ h2{
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     margin-left: 320px;
-    margin-top: 150px;
+    margin-top: 210px;
 }
 .arrow:hover{
     border-color: #F7BE66;
@@ -212,16 +218,15 @@ h3{
     background-color: #2f2924;
 }
 .nastegodkendtop{
+    text-align: center;
     background-color: #2f2924;
     font-family: sans-serif;
     color: #ffffff;
-    text-align: center;
     margin-top: 100px;
     font-weight: bold;
     font-size: 20px; 
-    margin-left: 0px;
     border: none;
-    margin-left: 130px;
+    margin-left: 150px;
     text-decoration: none;
 }
 .nastegodkendtop:hover{
@@ -322,7 +327,12 @@ li{
     margin: auto;
     margin-top: 70px;
 }
-
+.line5{
+    border-bottom: 9px solid #F7BE66;
+    max-width: 230px;
+    margin-top: -9px;  
+    margin-left: 30px; 
+}
 .svarfeltforkertsvar{
     height: 50px;
     width: 250px;
@@ -410,12 +420,43 @@ h4{
 .nastegodkendtopresultat:hover{
     color: #F7BE66;
 }
-#myProgress {
-        width: 10%;
-        background-color: #ddd;
+.nastegodkendtopr{
+    text-align: center;
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px; 
+    border: none;
+    margin-left: 155px;
+    text-decoration: none;
 }
-#myBar {
-        width: 1%;
-        height: 30px;
-        background-color: #4CAF50;
+.nastegodkendtopr:hover{
+    color: #F7BE66;
+}
+.nastegodkendtopresultatv{
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px; 
+    margin-left: 90px;
+    text-decoration: none;
+}
+.nastegodkendtopresultatv:hover{
+    color: #F7BE66
+}
+.nastegodkendtopresultatindex{
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px; 
+    margin-left: 125px;
+    text-decoration: none;
+}
+.nastegodkendtopresultatindex:hover{
+    color: #F7BE66
 }
