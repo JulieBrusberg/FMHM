@@ -1,6 +1,6 @@
 console.log("mitjsvirker")
 
-
+/*Kode til opgave 1*/
 function validateForm() {
 /*Kode til a*/
 var a = document.getElementById("a").value;
