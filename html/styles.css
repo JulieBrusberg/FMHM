@@ -451,7 +451,7 @@ h4{
     text-align: center;
     font-weight: bold;
     font-size: 30px; 
-    margin-left: 120px;
+    margin-left: 100px;
     text-decoration: none;
 }
 .nastegodkendtopresultatv:hover{
@@ -489,4 +489,8 @@ h4{
     color: #ffffff;
     font-family: sans-serif;
     margin-left: 135px;
+}
+.resultat{
+    width: 375px;
+    height: 812;
 }
