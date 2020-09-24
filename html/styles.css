@@ -494,3 +494,49 @@ h4{
     width: 375px;
     height: 812;
 }
+.vrbillede{
+    width: 700px;
+    height: 310px;
+    transform: rotate(90deg);
+    margin-left: -200px;
+}
+.nastegodkendtvr{
+    font-family: sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px; 
+    text-decoration: none;
+    margin-top: 200px;
+    margin-left: 55px;
+}
+.nastegodkendtvr:hover{
+color: #F7BE66;
+}
+.tryk{
+    font-family: sans-serif;
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center; 
+}
+.tryklink{
+    font-family: sans-serif;
+    color: #F7BE66;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.link{
+    text-align: center;
+}
+.nastegodkendtvideovr{
+    font-family: sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px; 
+    text-decoration: none;
+    margin-top: 200px;
+    margin-left: 90px;
+}
+.nastegodkendtvideovr:hover{
+    color: #F7BE66;
+    }
