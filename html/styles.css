@@ -237,7 +237,7 @@ h3{
     font-weight: bold;
     font-size: 20px; 
     border: none;
-    margin-left: 150px;
+    margin-left: 143px;
     text-decoration: none;
 }
 .nastegodkendtop:hover{
@@ -274,7 +274,7 @@ li{
     list-style: none;
     color: #ffffff;
     font-family: sans-serif;
-    margin-left: 45px;
+    margin-left: 35px;
     margin-top: -75px;
     
 }
@@ -383,7 +383,8 @@ li{
     margin-top: 20px;
 }
 .logoopg45{
-    width: 100%;
+    width: 90%;
+    margin-left: 20px;
 }
 h4{
     font-size: 45px;
@@ -398,9 +399,7 @@ h4{
     text-align: center;
     font-weight: bold;
     font-size: 20px; 
-    margin-left: 130px;
     text-decoration: none;
-    margin-top: 400px;
 }
 .nastegodkendtop45:hover{
     color: #F7BE66;
@@ -439,7 +438,7 @@ h4{
     font-weight: bold;
     font-size: 20px; 
     border: none;
-    margin-left: 155px;
+    margin-left: 150px;
     text-decoration: none;
 }
 .nastegodkendtopr:hover{
@@ -470,4 +469,18 @@ h4{
 }
 .nastegodkendtopresultatindex:hover{
     color: #F7BE66
+}
+.nastegodkendtop2{
+    background-color: #2f2924;
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 20px; 
+    border: none;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.nastegodkendtop2:hover{
+    color: #F7BE66;
 }
