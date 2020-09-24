@@ -106,9 +106,6 @@ h2{
     margin-left: 120px;
     margin-top: 300px;
 }
-.arrow:hover{
-    border-color: #F7BE66;
-}
 .head{
     display: flex;
     flex-wrap: wrap;
