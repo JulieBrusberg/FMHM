@@ -3,7 +3,7 @@ body{
 }
 .logo{
     width: 100%;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 .logolille{
     width: 15%;
@@ -453,8 +453,8 @@ h4{
     color: #ffffff;
     text-align: center;
     font-weight: bold;
-    font-size: 30px; 
-    margin-left: 125px;
+    font-size: 30px;
+    margin-left: 95px;
     text-decoration: none;
 }
 .nastegodkendtopresultatindex:hover{
